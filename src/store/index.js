@@ -5,7 +5,7 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
-    url: 'http://localhost:3000/',
+    url: 'https://e-commerce-w8.herokuapp.com/',
     navbar: '',
     role: localStorage.role,
     addForm: false,
