@@ -18,10 +18,10 @@ module.exports = {
     dialect: "postgres"
   },
   production: {
-    username: "root",
-    password: null,
-    database: "database_production",
-    host: "127.0.0.1",
+    username: "urfdghhpqzzobf",
+    password: "7867342fcbbc83dd74cd407081fe3781824cf1ba967726f863fcd04acc2ca315",
+    database: "dcmfn4fbaa488d",
+    host: "ec2-18-235-20-228.compute-1.amazonaws.com",
     dialect: "postgres"
   }
 };
